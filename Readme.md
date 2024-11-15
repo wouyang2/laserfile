@@ -34,3 +34,5 @@
     
         const data = fs.readFileSync('input.json', 'utf8');
         fs.writeFileSync('output.ild', b);
+
+npx ts-node test.ts
